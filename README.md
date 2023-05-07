@@ -23,9 +23,8 @@ https://www.itpro.co.uk/strategy/28161/the-best-big-data-technologies
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/divithraju/](https://www.linkedin.com/in/divithraju/)
 
 - 📝 I regularly write Blog on https://medium.com/@Divithraju
-- 
+
 - I write a book for Big Data Technology https://drive.google.com/drive/my-drive
-- 
 
 - 📫 How to reach me **divithraju2405@gmail.com**
 
