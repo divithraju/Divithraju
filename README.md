@@ -14,7 +14,7 @@ https://www.itpro.co.uk/strategy/28161/the-best-big-data-technologies
 
 - 🔭 I’m currently working on [Open Metadata](https://github.com/Divithraju/OpenMetadata)
 
-- 🌱 I’m currently learning **Google Developer Student Club**
+- 🌱 I’m currently learning **Google Developer Group**
 
 - 👯 I’m looking to collaborate on [Immigration-Data-Engineering](https://github.com/Divithraju/Immigration-Data-Engineering)
 
@@ -22,7 +22,10 @@ https://www.itpro.co.uk/strategy/28161/the-best-big-data-technologies
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/divithraju/](https://www.linkedin.com/in/divithraju/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/products/pulsifi-people-data-platform/](https://www.linkedin.com/products/pulsifi-people-data-platform/)
+- 📝 I regularly write Blog on https://medium.com/@Divithraju
+- 
+- I write a book for Big Data Technology https://drive.google.com/drive/my-drive
+- 
 
 - 📫 How to reach me **divithraju2405@gmail.com**
 
