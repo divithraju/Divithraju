@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Divithraju</h1>
 <h3 align="center">A passionate Big Data developer from India</h3>
-https://www.itpro.co.uk/strategy/28161/the-best-big-data-technologies
+https://medium.com/@Divithraju/big-data-architecture-e17a8df840d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divithraju&label=Profile%20views&color=0e75b6&style=flat" alt="divithraju" /> </p>
 
