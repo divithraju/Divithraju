@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/118492176/210089329-1942abd5-d54c-433c-8ce8-1902d729a4e5.png)
+![image]![image](https://user-images.githubusercontent.com/118492176/236656629-baffc855-7dd8-4052-be43-06bb6d904a59.png)
+
 
 <h1 align="center">Hi 👋, I'm Divithraju</h1>
 <h3 align="center">A passionate Big Data developer from India</h3>
