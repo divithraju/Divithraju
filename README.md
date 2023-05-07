@@ -1,4 +1,5 @@
-![image]![image](https://user-images.githubusercontent.com/118492176/236656629-baffc855-7dd8-4052-be43-06bb6d904a59.png)
+![image]![image](https://user-images.githubusercontent.com/118492176/236656703-8759d456-6ea2-49ed-bc7c-4a10f56aa5d8.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Divithraju</h1>
