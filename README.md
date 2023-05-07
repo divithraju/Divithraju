@@ -10,7 +10,8 @@ https://www.itpro.co.uk/strategy/28161/the-best-big-data-technologies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divithraju" alt="divithraju" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/divithraju" target="blank"><img src="https://img.shields.io/twitter/follow/divithraju?logo=twitter&style=for-the-badge" alt="divithraju" /></a> </p>
+<p align="left"> <a href=https://www.linkedin.com/in/divithraju/ target="blank"><img src=![image](https://user-images.githubusercontent.com/118492176/236657238-8a100f06-dd13-4d64-99fc-cc55bd6d3f06.png)
+ alt="divithraju" /></a> </p>
 
 - 🔭 I’m currently working on [Open Metadata](https://github.com/Divithraju/OpenMetadata)
 
