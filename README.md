@@ -31,6 +31,7 @@ https://medium.com/@Divithraju/big-data-architecture-e17a8df840d
 
 ### Blogs posts
 Unknown python libraries :https://medium.com/@Divithraju/six-amazing-unknown-python-libraries-c7bdad6b4472
+
 Advanced SQL Techniques : https://medium.com/@Divithraju/advanced-sql-techniques-ad7d6cde3ff5
 
 <h3 align="left">Connect with me:</h3>
