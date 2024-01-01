@@ -15,9 +15,9 @@ https://medium.com/@Divithraju/big-data-architecture-e17a8df840d
 <p align="left"> <a href=https://www.linkedin.com/in/divithraju/ target="blank"><img src=![image](https://user-images.githubusercontent.com/118492176/236657238-8a100f06-dd13-4d64-99fc-cc55bd6d3f06.png)
  alt="divithraju" /></a> </p>
 
-- 🔭 I’m currently working on [Open Metadata](https://github.com/Divithraju/OpenMetadata)
+- 🔭  currently working project  [Open Metadata](https://github.com/Divithraju/OpenMetadata)
 
-- 🌱 I’m currently learning **Google Developer Group**
+- 🌱 I’m currently working on **Freelance**
 
 - 👯 I’m looking to collaborate on [Immigration-Data-Engineering](https://github.com/Divithraju/Immigration-Data-Engineering)
 
@@ -29,7 +29,7 @@ https://medium.com/@Divithraju/big-data-architecture-e17a8df840d
 
 - I write a book for Big Data Technology https://drive.google.com/drive/my-drive
 
-- 📫 How to reach me **divithraju2405@gmail.com**
+- 📫 How to reach me **divithraju@gmail.com**
 
 ### Blogs posts
 Unknown python libraries :https://medium.com/@Divithraju/six-amazing-unknown-python-libraries-c7bdad6b4472
