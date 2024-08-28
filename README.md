@@ -8,12 +8,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divithraju" alt="divithraju" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=divithraju" alt="divithraju" />
+  </a>
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/divithraju/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-divithraju-blue?logo=linkedin" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -41,19 +43,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://medium.com/@Divithraju" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Medium" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Medium-divithraju-black?logo=medium" alt="Medium" />
   </a>
   <a href="https://twitter.com/divithraju" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Twitter-divithraju-1DA1F2?logo=twitter" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/divithraju/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-divithraju-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/20546918/divithraju" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-divithraju-F58025?logo=stackoverflow" alt="Stack Overflow" />
   </a>
   <a href="https://www.hackerrank.com/divithraju" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/HackerRank-divithraju-2EC866?logo=hackerrank" alt="HackerRank" />
   </a>
 </p>
 
