@@ -36,9 +36,9 @@
 - 📫 How to reach me: **divithraju@gmail.com**
 
 ### Blogs posts
-- [Unknown Python Libraries](https://medium.com/@Divithraju/six-amazing-unknown-python-libraries-c7bdad6b4472)
-- [Advanced SQL Techniques](https://medium.com/@Divithraju/advanced-sql-techniques-ad7d6cde3ff5)
-- [Big Data Architecture](https://medium.com/@Divithraju/big-data-architecture-e17a8df840d)
+- [Top Data Engineer Blog](https://medium.com/@divithraju/top-data-engineering-blogs-1917f1c321b2)
+- [Big Data Architecture and Evolution](https://medium.com/@divithraju/big-data-project-architecture-and-evolution-74891ab4a403)
+- [Real Time Steaming Pipeline](https://medium.com/@divithraju/building-a-real-time-streaming-pipeline-with-spark-kafka-and-cassandra-a-comprehensive-guide-7123817a0b2e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
