@@ -33,7 +33,7 @@
 
 - 📚 I wrote a book on Big Data Technology [Check it out](https://drive.google.com/drive/my-drive)
 
-- 📫 How to reach me: **divithraju@gmail.com**
+- 📫 How to reach me [Check it out](https://linktr.ee/divithraju)
 
 ### Blogs posts
 - [Top Data Engineer Blog](https://medium.com/@divithraju/top-data-engineering-blogs-1917f1c321b2)
