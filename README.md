@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/Divithraju/Divithraju/assets/118492176/b9ce07c8-b393-42a9-b9e0-3d950394faba)
+
 
 <h1 align="center">Hi 👋, I'm Divithraju</h1>
 <h3 align="center">A passionate Big Data developer from India</h3>
