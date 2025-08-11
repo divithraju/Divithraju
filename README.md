@@ -19,7 +19,7 @@
   </a>
 </p>
 
-- 🔭 Currently working on [Open Metadata](https://github.com/Divithraju/OpenMetadata)
+- 🔭 Currently working on [friendlyetl-PKG](https://github.com/divithraju/friendlyetl-PKG)
 
 - 🌱 I’m currently working as a **Freelancer**
 
